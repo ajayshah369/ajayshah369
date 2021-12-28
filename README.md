@@ -14,7 +14,7 @@
 🎓 I’m currently a junior pursuing my Bachelors in Computer Science & Engineering and have a strong interest in Open-Source💙 <br />
 ✨ I'm passionate about Artificial Intelligence, and learning new things!
 
-## 🚀 Technologies
+## 🚀 Skills
 
 ### Languages⚡
 
