@@ -23,7 +23,7 @@
 
 ### Frameworks & Libraries
 
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" /> <img src="https://img.shields.io/badge/NodeJS-white?style=for-the-badge&logo=node.js&logoColor=026e00" /> <img src="https://img.shields.io/badge/Flutter-1a68d3?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/DJango-0c3c26?style=for-the-badge&logo=django&logoColor=44b78b" /> <img src="https://img.shields.io/badge/Sass-white?style=for-the-badge&logo=sass&logoColor=bf4080" />
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" /> <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=026e00" /> <img src="https://img.shields.io/badge/Flutter-1a68d3?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/DJango-0c3c26?style=for-the-badge&logo=django&logoColor=44b78b" /> <img src="https://img.shields.io/badge/Sass-white?style=for-the-badge&logo=sass&logoColor=bf4080" />
 
 ### Database
 
